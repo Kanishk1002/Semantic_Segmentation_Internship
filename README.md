@@ -11,10 +11,8 @@ This repository contains the code and results of the comparison study of various
 - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
-- [Contact](#contact)
+
 
 ## Introduction
 
