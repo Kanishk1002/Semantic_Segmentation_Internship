@@ -1,6 +1,6 @@
 # Semantic_Segmentation_Internship
 
-# Cell Segmentation Algorithms Comparison
+# Semantic Segmentation Algorithms Comparison
 
 This repository contains the code and results of the comparison study of various segmentation algorithms. The goal of this research project is to evaluate and compare the performance of different algorithms for accurately segmenting cells in biomedical images.
 
