@@ -36,7 +36,7 @@ The following segmentation algorithms are compared in this study:
 - ATTENTION UNET
 - DEEPLAB V3+
 
-Each algorithm's implementation and configuration can be found in their respective directories under `src/`. Additionally, the `requirements.txt` file contains the necessary dependencies to run the code.
+Each algorithm's implementation and reports can be found in their respective directories.
 
 ## Evaluation Metrics
 
